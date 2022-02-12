@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj": {}
+    "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\Programming_Practice\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj": {
+    "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\Programming_Practice\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj",
+        "projectUniqueName": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\Programming_Practice\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj",
         "projectName": "JWTTokenAuthenticatofr",
-        "projectPath": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj",
+        "projectPath": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\Programming_Practice\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr.csproj",
         "packagesPath": "C:\\Users\\nihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\obj\\",
+        "outputPath": "C:\\Users\\nihal\\OneDrive\\Desktop\\Project\\Programming_Practice\\JWTTokenAuthenticatofr\\JWTTokenAuthenticatofr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
