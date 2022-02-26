@@ -1,0 +1,16 @@
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.exe
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.deps.json
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.json
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.dev.json
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.dll
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\ref\DateTimeFormat.dll
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.pdb
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.csproj.AssemblyReference.cache
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfoInputs.cache
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfo.cs
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.dll
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\ref\DateTimeFormat.dll
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.pdb
+C:\Users\nihal\OneDrive\Desktop\Project\Programming_Practice\DateTimeFormat\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.genruntimeconfig.cache
